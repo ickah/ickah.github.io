@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Dec 2019 21:18:45 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test_post</title>
+      <link>http://example.org/post/test_post/</link>
+      <pubDate>Wed, 25 Dec 2019 21:18:45 +0800</pubDate>
+      
+      <guid>http://example.org/post/test_post/</guid>
+      <description>this is a test post $ git push -u origin gh-pages Counting objects: 49, done. Delta compression using up to 4 threads. Compressing objects: 100% (45/45), done. Writing objects: 100% (49/49), 1.34 MiB | 131.00 KiB/s, done. Total 49 (delta 5), reused 0 (delta 0) To https://github.com/chengweiv5/test.git * [new branch] gh-pages -&amp;gt; gh-pages Branch gh-pages set up to track remote branch gh-pages from github. </description>
+    </item>
+    
+  </channel>
+</rss>
